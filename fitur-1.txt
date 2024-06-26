@@ -2,3 +2,4 @@
 - Menambahkan Tombol
 - Baris Menambah icon tadi disini
 - Menambah icon
+- Belajar NextJS
